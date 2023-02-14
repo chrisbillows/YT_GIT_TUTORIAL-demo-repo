@@ -1,3 +1,3 @@
 # Demo
 
-This is my new text - deleting the old text.
+This is my new text - IMPROVING the old text.
